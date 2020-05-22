@@ -1,0 +1,12 @@
+May 22, 2020 9:29:11 PM java.util.logging.LogManager$RootLogger log
+INFO: Name of the player : Player-A
+ [Health : 30.0] 
+ [Attack Value : 10.0] 
+ [Number of Wins : 0] 
+
+May 22, 2020 9:29:11 PM java.util.logging.LogManager$RootLogger log
+INFO: Name of the player : Player-B
+ [Health : 30.0] 
+ [Attack Value : 12.0] 
+ [Number of Wins : 3] 
+
